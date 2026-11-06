@@ -19,8 +19,8 @@
 1. Клонируйте репозиторий и перейдите в его папку:
 
 ```powershell
-git clone https://github.com/Adrian-ctrl-gif/mle-analiz-loyalnosti-polzovatelej.git
-cd mle-analiz-loyalnosti-polzovatelej
+git clone https://github.com/Adrian-ctrl-gif/customer-retention-analysis.git
+cd customer-retention-analysis
 ```
 
 2. Создайте виртуальное окружение и установите зависимости:
